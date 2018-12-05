@@ -1,0 +1,73 @@
+# Unity project gitignore
+
+# =============== #
+# Unity generated #
+# =============== #
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild
+/[Bb]uilds/
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+*.pidb.meta
+*.pdb.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+*.userprefs
+*.csproj
+*.pidb
+*.pidb.meta
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+.consulo/
+/*.tmp
+/*.svd
+*.pdb
+*.sdf
+*.opensdf
+*.ilk
+*.aps
+*.VC*
+*.vcxproj*
+ipch/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
+
+# System files
+Thumbs.db
+Thumbs.db.meta
+*.DS_Store
+*.directory
+.vs
+.vscode
+
+# ============ #
+# Git files    #
+# ============ #
+*~HEAD
+*~HEAD_0.meta
+*un-commited
+*~HEAD.meta
+*un-commited.meta
